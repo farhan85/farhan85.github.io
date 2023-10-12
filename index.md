@@ -53,3 +53,19 @@ extension easy and fun for our future colleagues that will also work on the same
 # Topics
 
 1. [Single Responsibility](single-responsibility.md)
+1. [Immutable POJOs](immutable-pojos.md)
+1. [Dealing with Nulls](dealing-with-nulls.md)
+1. [Java Optionals and Streams](java-optionals-and-streams.md)
+1. [Value Objects](value-objects.md)
+1. Inheritance vs Composition
+1. [Writing Logs](writing-logs.md)
+1. Unit Tests
+
+# Consistency
+
+# Recommended reading/viewing
+
+Here's a list of other great material that explains good programming concepts:
+- [Clean Code adapted for TypeScript](https://github.com/stemmlerjs/clean-code-typescript)
+- [Clean Code — A practical approach](https://medium.com/clarityai-engineering/clean-code-a-practical-approach-896546435235)
+- [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
