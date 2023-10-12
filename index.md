@@ -52,13 +52,13 @@ extension easy and fun for our future colleagues that will also work on the same
 
 # Topics
 
-1. [Single Responsibility](single-responsibility.md)
-1. [Immutable POJOs](immutable-pojos.md)
-1. [Dealing with Nulls](dealing-with-nulls.md)
-1. [Java Optionals and Streams](java-optionals-and-streams.md)
-1. [Value Objects](value-objects.md)
+1. [Single Responsibility](topics/single-responsibility.md)
+1. [Immutable POJOs](topics/immutable-pojos.md)
+1. [Dealing with Nulls](topics/dealing-with-nulls.md)
+1. [Java Optionals and Streams](topics/java-optionals-and-streams.md)
+1. [Value Objects](topics/value-objects.md)
 1. Inheritance vs Composition
-1. [Writing Logs](writing-logs.md)
+1. [Writing Logs](topics/writing-logs.md)
 1. Unit Tests
 
 # Consistency
